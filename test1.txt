@@ -31,13 +31,7 @@ sdf
 sd
 
 
-
-sdfas
-
-New one from jayaraj git one test
-
-dfasd
-newline from git two 
+New line added to git override checking in git one
 
 f
 asdf
